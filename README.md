@@ -12,4 +12,7 @@ Instalación:
 - php artisan migrate:fresh --seed
 - php artisan serve
 
+- El usuario por defecto es: admin@admin.com
+- Contraseña: password
+
 
